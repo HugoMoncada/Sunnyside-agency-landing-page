@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Watch it live](https://sunnyside-agency-landing-page-beige.vercel.app/)
+- Solution URL: [Compare design vs final version here](https://your-solution-url.com)
 
 ## My process
 
